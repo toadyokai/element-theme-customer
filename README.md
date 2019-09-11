@@ -142,4 +142,7 @@ $colors:(
 ```
 
 ### Demo
+#### Dark
 ![img](./img.png)
+#### Light
+![img](./img2.png)
