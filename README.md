@@ -140,3 +140,6 @@ $colors:(
   table-striped-background: #FAFAFA
 );
 ```
+
+### Demo
+![img](./img.png)
